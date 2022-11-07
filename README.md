@@ -1,2 +1,4 @@
-# passwd
-user/passeord
+#user
+root
+#pwd
+qwedcdfsf#*da1
